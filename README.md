@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nicholmikey-chrome-tools-mcp-badge.png)](https://mseep.ai/app/nicholmikey-chrome-tools-mcp)
+
 # Chrome Tools MCP Server
 
 An MCP server that provides tools for interacting with Chrome through its DevTools Protocol. This server enables remote control of Chrome tabs, including executing JavaScript, capturing screenshots, monitoring network traffic, and more.
